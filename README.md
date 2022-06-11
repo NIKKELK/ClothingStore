@@ -57,7 +57,7 @@
 -	СУБД PostgreSQL
 -	Созданная база данных для подключения приложения. Конфигурация БД
   - url: `jdbc:postgresql://localhost:5432/crowd`
-  - password: `11`
-  - username: `root`
+  - password: postgres
+  - username: postgres
   - все таблицы создаются автоматически
 
